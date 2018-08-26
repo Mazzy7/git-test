@@ -1,0 +1,4 @@
+model_checkpoint_path: "C:\\Users\\Massa\\Desktop\\Jatana\\cnn-text-classification-tf-master\\runs\\1534764598\\checkpoints\\model-300"
+all_model_checkpoint_paths: "C:\\Users\\Massa\\Desktop\\Jatana\\cnn-text-classification-tf-master\\runs\\1534764598\\checkpoints\\model-100"
+all_model_checkpoint_paths: "C:\\Users\\Massa\\Desktop\\Jatana\\cnn-text-classification-tf-master\\runs\\1534764598\\checkpoints\\model-200"
+all_model_checkpoint_paths: "C:\\Users\\Massa\\Desktop\\Jatana\\cnn-text-classification-tf-master\\runs\\1534764598\\checkpoints\\model-300"
